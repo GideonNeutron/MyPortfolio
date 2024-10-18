@@ -2483,15 +2483,16 @@ input, select, textarea {
 
 		dl.alt dt {
 			display: block;
-			width: 3em;
-			margin-left: 350px;
+			width: auto;
+			margin: auto;
+			text-align: right;
 			clear: left;
 			float: left;
 		}
 
 		dl.alt dd {
-			text-align: left;
-			margin: 0 0 0.85em 30.5em;
+			text-align: auto;
+			margin: auto;
 		}
 
 		dl.alt:after {
